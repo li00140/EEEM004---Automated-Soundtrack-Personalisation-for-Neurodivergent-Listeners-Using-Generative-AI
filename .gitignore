@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+audioldm_env/
+
+# macOS
+.DS_Store
+
+# Generated outputs
+outputs/
+evaluation_results/
+
+# Hugging Face / model caches
+.cache/
+huggingface/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
